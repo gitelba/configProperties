@@ -1,0 +1,2 @@
+# configProperties
+Project configurationProperties
